@@ -34,6 +34,8 @@ That's it! You have successfully completed this challenge and contributed to Hac
 
 I hope you enjoy this challenge and have fun creating your own profile style. I can't wait to see what you come up with! 😊
 
+**Note:** This issue has no limit to assignees and preferred 1 PR per user. Please check the existing PRs before submitting yours to avoid duplicates.
+
 <br>
 
 ## 📌 **Tech Stack**
